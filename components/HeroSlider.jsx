@@ -1,5 +1,4 @@
-// components/HeroSlider.jsx
-"use client"; // Слайдер солигдоход React-ийн state хэрэгтэй тул энийг заавал бичнэ
+"use client"; 
 import { useState, useEffect } from 'react';
 import { sliderImages } from '@/constants/data';
 
